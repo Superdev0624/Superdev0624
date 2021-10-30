@@ -241,29 +241,6 @@
   ✔️ Worked in large development teams as a team leader </br>
 
 </div>
-
-
-
-
-<table border="0" align="center">
-  <tr border="0">
-    <td width="100%" align="center">
-
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
-      <br></br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-
-
-
-
-<br>
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -274,29 +251,6 @@
 </div>
 </p>
 
-<br>
-
-<hr>
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-<br>
-
-<hr>
-
-<br>
 
 
 
